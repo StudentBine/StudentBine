@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a student at FERI, learning about programming, informatics, artificial inteligence,<br>CI/CD, hardware
+I am a student at FERI, learning about programming, informatics, artificial inteligence and hardware
 
 
 # 💻 Tech Stack:
